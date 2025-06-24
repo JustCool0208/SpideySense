@@ -1,6 +1,9 @@
 # 🕷️ SpideySense – Your AI-Powered Vision Assistant
 
 SpideySense is a real-time personal safety and perception assistant that helps you stay aware of your surroundings using computer vision, audio alerts, and AI voice interaction.
+<br>
+
+This project is currently **not licensed for reuse**.  
 
 > 💡 Built for joggers, commuters, and creators who want AI-powered "Spidey senses" in the real world.
 
@@ -136,3 +139,13 @@ SpideySense/
 - 🧠 Real-world integration via mobile/ESP32
 
   more soon (look out for v2)
+
+#### BUILT BY 🛠️
+#####  👨‍💻 ROHITH A M 
+
+## ⚠️ License
+
+This project is currently **not licensed for reuse**.  
+All rights reserved © 2025 Rohith A M.
+
+Please contact me if you wish to collaborate or request access.
