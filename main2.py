@@ -1,3 +1,18 @@
+"""
+🕷️ SpideySense – AI Vision Assistant
+Author: Rohith A M
+
+This script uses YOLO for real-time object detection,
+calculates distances, and responds with voice warnings
+and Gemini-powered answers to voice/text queries.
+
+Press:
+- v: Voice command
+- t: Type query
+- d: Dismiss object
+- q: Quit
+"""
+
 import cv2
 import threading
 import time
